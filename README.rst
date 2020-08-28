@@ -47,7 +47,7 @@ My 2020 so far
 
 - Interviewed by Tatum Hunter for `Built In article <https://builtin.com/software-engineering-perspectives/offensive-code-terminology-changes>`_
 
-- Preparing talks for PyCon Australia (online), PyCon Taiwan, and PyGotham
+- Preparing my talk **Oops! I Became an Open Source Maintainer! 😱**   for `PyCon Australia <https://2020.pycon.org.au/program/jzw83q/>`_ (online), `PyCon Taiwan <https://tw.pycon.org/2020/en-us/conference/keynotes/>`_, and PyGotham
 
 
 
