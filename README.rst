@@ -21,7 +21,7 @@ If you find my open source contributions valuable, please consider `sponsoring m
 My 2020 so far
 --------------
 
-- Organized PyLadies Vancouver `January Talk Night<https://www.meetup.com/PyLadies-Vancouver/events/267096492/>`_
+- Organized PyLadies Vancouver `January Talk Night <https://www.meetup.com/PyLadies-Vancouver/events/267096492/>`_
 
 - Spoke at PyCascades 2020 in Portland with Elaine Wong and Lorena Mesa about `9 Years of PyLadies: Lessons Learned and What Comes Next <https://2020.pycascades.com/talks/9-years-of-pyladies-lessons-learned-and-what-comes-next/>`_
 
