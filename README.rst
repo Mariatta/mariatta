@@ -1,2 +1,54 @@
 Hi there 👋
 -----------
+
+My name is Mariatta. My pronoun is she/her/hers. I live in Vancouver 🇨🇦  and my timezone is UTC-7.
+
+The open source projects that I'm currently focusing on are:
+
+- `CPython <https://github.com/python/cpython>`_, specifically the core-workflow, GitHub bots, Devguide and general documentation
+- `Python Core Sprint <https://github.com/python/core-sprint>`_
+- `PyLadies <https://github.com/pyladies/pyladies>`_
+- `gidgethub <https://github.com/brettcannon/gidgethub>`_
+
+I'm also a public speaker and I co-organize Vancouver PyLadies group.
+
+For my contributions to Python, I've received the `Community Service Award <http://pyfound.blogspot.com/2019/02/the-north-star-of-pycascades-core.html>`_ from `Python Software Foundation <https://python.org>`_. I've also been nominated twice for
+`Google Open Source Peer Bonus <https://opensource.googleblog.com/2020/04/announcing-2020-first-quarter-google.html>`_ program.
+
+If you find my open source contributions valuable, please consider `sponsoring me <https://github.com/sponsors/Mariatta>`_ on GitHub.
+
+
+My 2020 so far
+--------------
+
+- Organized PyLadies Vancouver `January Talk Night<https://www.meetup.com/PyLadies-Vancouver/events/267096492/>`_
+
+- Spoke at PyCascades 2020 in Portland with Elaine Wong and Lorena Mesa about `9 Years of PyLadies: Lessons Learned and What Comes Next <https://2020.pycascades.com/talks/9-years-of-pyladies-lessons-learned-and-what-comes-next/>`_
+
+- Gave a tutorial for PyCon 2020: `Say It With Bots! <https://www.youtube.com/watch?v=JWhywJHIMfs>`_
+
+- Presented at PyCon 2020 with Elaine Wong and Lorena Mesa about `9 Years of PyLadies: Lessons Learned and What Comes Next <https://www.youtube.com/watch?v=KRwpY2TixAs>`_
+
+- Presented at `PyLadies India online event <https://www.youtube.com/watch?v=c2e8y_c-rMM>`_
+
+- Organized the first ever `Virtual Python Language Summit <https://us.pycon.org/2020/events/languagesummit/>`_ with Łukasz Langa 
+
+- Released gidgethub v 4.1.0
+
+- Gave a lightning talk at `live@Manning Python conference <https://www.youtube.com/watch?v=xB7LMkaZgSg>`_
+
+- Gave a lightning talk at PyLadies Seattle about building GitHub Bots with gidgethub
+
+- Organizing `Python core sprint <https://github.com/python/core-sprint>`_ with Kyle Stanley and Ewa Jodlowska
+
+- Created `PyLadies bot <https://github.com/pyladies/pyladies-bot>`_
+
+- Interviewed by Rosalie Chan for `Business Insider article <https://www.businessinsider.com/companies-github-terms-master-slave-blacklist-whitelist-open-source-2020-6?>`_
+
+- Interviewed by Tatum Hunter for `Built In article <https://builtin.com/software-engineering-perspectives/offensive-code-terminology-changes>`_
+
+- Preparing talks for PyCon Australia (online), PyCon Taiwan, and PyGotham
+
+
+
+Last updated August 28, 2020
