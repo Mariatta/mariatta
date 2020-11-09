@@ -10,16 +10,16 @@ The open source projects that I'm currently focusing on are:
 - `PyLadies <https://github.com/pyladies/pyladies>`_
 - `gidgethub <https://github.com/brettcannon/gidgethub>`_
 
-I'm also a public speaker and I co-organize Vancouver PyLadies group.
+I'm also a public speaker and I co-organize Vancouver PyLadies group. 
 
 For my contributions to Python, I've received the `Community Service Award <http://pyfound.blogspot.com/2019/02/the-north-star-of-pycascades-core.html>`_ from `Python Software Foundation <https://python.org>`_. I've also been nominated twice for
-`Google Open Source Peer Bonus <https://opensource.googleblog.com/2020/04/announcing-2020-first-quarter-google.html>`_ program.
+`Google Open Source Peer Bonus <https://opensource.googleblog.com/2020/04/announcing-2020-first-quarter-google.html>`_ program. I'm a `PSF Fellow member <http://pyfound.blogspot.com/2020/10/python-software-foundation-fellow.html>`_ since 2020. In honor of `Ada Lovelace Day in 2020 <https://twitter.com/github/status/1316061242788851712>`_, my story was shared on `GitHub ReadME project <https://github.com/readme/mariatta-wijaya>`_.
 
 If you find my open source contributions valuable, please consider `sponsoring me <https://github.com/sponsors/Mariatta>`_ on GitHub.
 
 
-My 2020 so far
---------------
+My 2020 so far (Last updated November 9, 2020)
+----------------------------------------------
 
 - Organized PyLadies Vancouver `January Talk Night <https://www.meetup.com/PyLadies-Vancouver/events/267096492/>`_
 
@@ -39,7 +39,7 @@ My 2020 so far
 
 - Gave a lightning talk at PyLadies Seattle about building GitHub Bots with gidgethub
 
-- Organizing `Python core sprint <https://github.com/python/core-sprint>`_ with Kyle Stanley and Ewa Jodlowska
+- Organized `Python core sprint <https://github.com/python/core-sprint>`_ with Kyle Stanley and Ewa Jodlowska. `According to Guido van Rossum <https://twitter.com/mariatta/status/1320043125482483713>`_, it was *"the best online event I've attended"*.
 
 - Created `PyLadies bot <https://github.com/pyladies/pyladies-bot>`_
 
@@ -51,4 +51,13 @@ My 2020 so far
 
 - Created `Python core sprint documentation <https://python-core-sprint-2020.readthedocs.io/>`_
 
-Last updated September 10, 2020
+- Featured on `GitHub ReadME project <https://github.com/readme/mariatta-wijaya>`_ on Ada Lovelace Day
+
+- Presented a short talk at PyLadies Vancouver titled `Demystifying Public Speaking <https://www.youtube.com/watch?v=ab9pinvc1Hc>`_
+
+- Preparing to give Keynote talks for PyCon Indonesia and PyCon Poland.
+
+
+
+
+
