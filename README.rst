@@ -18,7 +18,7 @@ For my contributions to Python, I've received the `Community Service Award <http
 If you find my open source contributions valuable, please consider `sponsoring me <https://github.com/sponsors/Mariatta>`_ on GitHub.
 
 
-My 2020 so far (Last updated November 9, 2020)
+My 2020 so far (Last updated December 8, 2020)
 ----------------------------------------------
 
 - Organized PyLadies Vancouver `January Talk Night <https://www.meetup.com/PyLadies-Vancouver/events/267096492/>`_
@@ -47,7 +47,7 @@ My 2020 so far (Last updated November 9, 2020)
 
 - Interviewed by Tatum Hunter for `Built In article <https://builtin.com/software-engineering-perspectives/offensive-code-terminology-changes>`_
 
-- Presented my talk **Oops! I Became an Open Source Maintainer! 😱**   for `PyCon Australia <https://2020.pycon.org.au/program/jzw83q/>`_ (online), `PyCon Taiwan <https://tw.pycon.org/2020/en-us/conference/keynotes/>`_, and PyGotham
+- Presented my talk **Oops! I Became an Open Source Maintainer! 😱**   for `PyCon Australia <https://2020.pycon.org.au/program/jzw83q/>`_ (online), `PyCon Taiwan <https://tw.pycon.org/2020/en-us/conference/keynotes/>`_, PyGotham, and SeaGL.
 
 - Created `Python core sprint documentation <https://python-core-sprint-2020.readthedocs.io/>`_
 
@@ -55,7 +55,13 @@ My 2020 so far (Last updated November 9, 2020)
 
 - Presented a short talk at PyLadies Vancouver titled `Demystifying Public Speaking <https://www.youtube.com/watch?v=ab9pinvc1Hc>`_
 
-- Preparing to give Keynote talks for PyCon Indonesia and PyCon Poland.
+- Presented keynote talks for PyCon Indonesia and PyCon Poland.
+
+- Released gidgethub v 4.2.0
+
+- Started working as Staff Software Engineer at Uplight.
+
+- Running for `Python Steering Council 2021 <https://discuss.python.org/t/steering-council-nomination-mariatta-2021-term/5765>`_ term.
 
 
 
